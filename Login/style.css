@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Master.png);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
